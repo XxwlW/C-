@@ -1,0 +1,16 @@
+﻿  LinkNodes.cpp
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(14): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(14): error C2065: “head”: 未声明的标识符
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(14): error C2062: 意外的类型“int”
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(14): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(14): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(38): error C2065: “test”: 未声明的标识符
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(38): error C2061: 语法错误: 标识符“ListNode”
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(39): error C2065: “cur”: 未声明的标识符
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(39): error C2065: “test”: 未声明的标识符
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(42): error C2065: “node”: 未声明的标识符
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(42): error C2061: 语法错误: 标识符“ListNode”
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(43): error C2065: “cur”: 未声明的标识符
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(43): error C2065: “node”: 未声明的标识符
+e:\wxj\practice\c++\c++primer\c++primer\heima\tongxunlu\tongxunlu\linknodes.cpp(44): error C2065: “cur”: 未声明的标识符

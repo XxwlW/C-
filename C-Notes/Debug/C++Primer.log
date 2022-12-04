@@ -1,0 +1,133 @@
+﻿  15.2.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart15\15.2.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XiTi15.13.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart15\xiti15.13.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart15\xiti15.13.cpp(16): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart15\xiti15.13.cpp(17): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  2.1.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart2\2.1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Sales_data.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart2\sales_data.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart2\sales_data.cpp(113): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart2\sales_data.cpp(114): error C2143: 语法错误: 缺少“;”(在“if”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\chart2\sales_data.cpp(124): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart2\sales_data.cpp(125): error C2146: 语法错误: 缺少“;”(在标识符“trans1”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\chart2\sales_data.cpp(129): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart2\sales_data.cpp(130): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  3.2.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart3\3.2.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  3.3.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart3\3.3.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart3\3.3.cpp(120): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart3\3.3.cpp(121): error C2143: 语法错误: 缺少“;”(在“for”的前面)
+  3.4.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart3\3.4.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  tempCodeRunnerFile.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart3\tempcoderunnerfile.cpp(2): error C3927: "->": 非函数声明符后不允许尾随返回类型
+e:\wxj\practice\c++\c++primer\c++primer\chart3\tempcoderunnerfile.cpp(2): error C3484: 语法错误: 返回类型前应为“->”
+e:\wxj\practice\c++\c++primer\c++primer\chart3\tempcoderunnerfile.cpp(2): error C3613: “->”后缺少返回类型(假定为“int”)
+e:\wxj\practice\c++\c++primer\c++primer\chart3\tempcoderunnerfile.cpp(2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\wxj\practice\c++\c++primer\c++primer\chart3\tempcoderunnerfile.cpp(2): error C2146: 语法错误: 缺少“;”(在标识符“sync”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\chart3\tempcoderunnerfile.cpp(3): error C2059: 语法错误:“if”
+  4.8.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart4\4.8.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  5.6.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart4\5.6.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart4\5.6.cpp(11): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart4\5.6.cpp(19): error C2143: 语法错误: 缺少“;”(在“while”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\chart4\5.6.cpp(26): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart4\5.6.cpp(27): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  6.1.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart6\6.1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart6\6.1.cpp(42): error C3688: 文本后缀“涔嬪拰锛”无效；未找到文文本运算符或文本运算符模板“operator """"涔嬪拰锛”
+  6.2.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart6\6.2.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  factMain.cc
+e:\wxj\practice\c++\c++primer\c++primer\chart6\factmain.cc : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart6\factmain.cc(11): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart6\factmain.cc(12): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+  7.1.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.1.cpp(112): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.1.cpp(113): error C2143: 语法错误: 缺少“;”(在“if”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.1.cpp(123): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.1.cpp(124): error C2146: 语法错误: 缺少“;”(在标识符“trans1”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.1.cpp(128): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.1.cpp(129): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  7.3.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.3.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\chart7\7.3.cpp(72): error C2676: 二进制“[”:“std::list<int,std::allocator<_Ty>>”不定义该运算符或到预定义运算符可接收的类型的转换
+          with
+          [
+              _Ty=int
+          ]
+  XiTi7.53.cpp
+e:\wxj\practice\c++\c++primer\c++primer\chart7\xiti7.53.cpp(25): error C2662: “bool Debug::any(void)”: 不能将“this”指针从“const Debug”转换为“Debug &”
+  e:\wxj\practice\c++\c++primer\c++primer\chart7\xiti7.53.cpp(25): note: 转换丢失限定符
+e:\wxj\practice\c++\c++primer\c++primer\chart7\xiti7.53.cpp(30): error C2662: “bool Debug::any(void)”: 不能将“this”指针从“const Debug”转换为“Debug &”
+  e:\wxj\practice\c++\c++primer\c++primer\chart7\xiti7.53.cpp(30): note: 转换丢失限定符
+  07-jichengzhongdegouzaohexigou.cpp
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(10): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(14): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(11): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(15): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(23): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(27): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(24): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\07-jichengzhongdegouzaohexigou.cpp(28): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  1-42-shuzu.cpp
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(37): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(38): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(40): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(41): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(41): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(42): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(42): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(43): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(43): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(44): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(44): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\1-42-shuzu.cpp(45): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+  11-lingxingjicheng.cpp
+e:\wxj\practice\c++\c++primer\c++primer\heima\11-lingxingjicheng.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\heima\11-lingxingjicheng.cpp(43): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\11-lingxingjicheng.cpp(45): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+  erweishuzu.cpp
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(19): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(85): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(86): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(86): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(89): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(89): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(90): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(90): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(91): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(91): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(92): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(92): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(93): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(93): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(94): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(94): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(95): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(95): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(96): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(96): error C2001: 常量中有换行符
+e:\wxj\practice\c++\c++primer\c++primer\heima\erweishuzu.cpp(98): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+  正在生成代码...
+  正在编译...
+  hanshu.cpp
+e:\wxj\practice\c++\c++primer\c++primer\heima\hanshu.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\heima\hanshu.cpp(1): fatal error C1083: 无法打开包括文件: “hanshu.h”: No such file or directory
+  zhizhen.cpp
+e:\wxj\practice\c++\c++primer\c++primer\heima\zhizhen.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\heima\zhizhen.cpp(93): error C2660: “bubbleSort”: 函数不接受 1 个参数
+  e:\wxj\practice\c++\c++primer\c++primer\heima\zhizhen.cpp(5): note: 参见“bubbleSort”的声明
+  LianBiao.cpp
+e:\wxj\practice\c++\c++primer\c++primer\shujujiegou\lianbiao.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\wxj\practice\c++\c++primer\c++primer\shujujiegou\lianbiao.cpp(21): error C3861: “max”: 找不到标识符
+  正在生成代码...
